@@ -25,6 +25,7 @@ plugins/mitogen
 inventory/*
 !inventory/local
 !inventory/sample
+!inventory/mycluster
 inventory/*/artifacts/
 
 # Byte-compiled / optimized / DLL files
